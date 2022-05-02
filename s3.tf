@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucklebuck" {
-  bucket = "bsark_1990_terrafirm1"
+  bucket = "bsark-1990-terrafirm1"
   acl    = "private"
 
   tags = {
